@@ -1,6 +1,9 @@
 # Dsc-PT04-Phase-3-Project
 # MAJI NGO TANZANIAN WATER WELL PROJECT
+
 ![header-ngo.jpeg](attachment:header-ngo.jpeg)
+
+
 Water is one of the three basic needs required for a human being to survive. Water, not only quenches your thirst but also is essential to keeping your body healthy and functioning properly e.g. It makes up almost 90% of blood and hence aid in all the bodily functions that blood carries out like regulating body temperature, it lubricates joints, dissolves minerals and nutrients to make them accessible to the body, etc. Without going into further biological detail we can see how important water is to a person.<a href="https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/water-essential-to-your-body">Mayo Clinic Health</a>
 
 With this in mind, most developing countries have a high poverty rate which means access to a necessity like water is low.
